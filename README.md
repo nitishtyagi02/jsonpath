@@ -1,4 +1,4 @@
-# JSONPath Online Evaluator [![CI](https://github.com/ashphy/jsonpath-online-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/ashphy/jsonpath-online-evaluator/actions/workflows/ci.yml)
+# JSONPath [![CI](https://github.com/ashphy/jsonpath-online-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/ashphy/jsonpath-online-evaluator/actions/workflows/ci.yml)
 A playground for [JSONPath](http://goessner.net/articles/JsonPath/)
 
 ## Requirements
